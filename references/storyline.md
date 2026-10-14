@@ -62,32 +62,32 @@ Notice each beat is one sentence and could be the only text on its slide.
 
 - **Ask, then answer, on separate slides.** A question alone on a slide makes the room think.
   The next slide moves the question up (dimmed) and the answer fades in beneath.
-- **Concrete before abstract.** "A fleet drives 50,000 miles with zero incidents" before
-  "a one-sided Poisson upper bound". Give the formula only after the intuition lands.
+- **Concrete before abstract.** "A bakery sold 400 loaves and got zero complaints" before
+  "an upper confidence bound on the complaint rate". Give the formula only after the intuition lands.
 - **Change one thing at a time.** Keep the same scene and alter one variable (10x the data, rewind
   to zero, switch the highlight). The audience sees cause and effect because nothing else moved.
 - **Dim, don't delete.** Prior context stays on screen at 0.2-0.5 opacity or moves to a corner as
   a recap, so the audience never loses the thread.
-- **Name it after showing it.** Show the trap happening, then a statement slide: "This is a
-  well-known trap called *X*."
-- **Ironic setup.** "So we have a 5% chance of being wrong... *right?*" Then disprove it.
+- **Name it after showing it.** Show the phenomenon happening, then a statement slide that gives
+  it its name, with the name as the big accent word.
+- **Ironic setup.** State the comfortable assumption, end with "... *right?*", then disprove it.
 - **Interactive payoff.** At the climax, give the presenter a slider or toggle that lets the
-  audience watch the effect happen live (e.g. drag time forward, watch the false alarm occur).
+  audience watch the effect happen live (e.g. drag time forward and watch the effect appear).
 - **Contrast slide.** When the audience will confuse your idea with a familiar one, put them side
   by side: muted gray panel (the familiar thing) vs accent panel (your thing), 3 short lines each.
-- **Pivot lines.** A single sentence slide that turns the story: "Being X is necessary, but *not*
-  sufficient." These are the hinges of the talk; give them room.
+- **Pivot lines.** A single sentence slide that turns the story: "That answers *what*, but *not*
+  *why*." These are the hinges of the talk; give them room.
 - **Make numbers meaningful.** Use real, exact computations. Round consistently. Same quantity,
   same value, on every slide where it appears.
 
 ## Copy rules
 
 - One sentence per slide, two at most (a statement and its turn).
-- Write it the way the presenter would *say* it, not as a heading. "We could wait for more
-  miles..." beats "Option 1: Collect More Data".
-- Italicize the single word that carries the beat (*close*, *not*, *right?*).
+- Write it the way the presenter would *say* it, not as a heading. "We could just wait
+  longer..." beats "Option 1: Collect More Data".
+- Italicize the single word that carries the beat (*never*, *not*, *right?*).
 - Color a word only if that color means something in the deck's legend.
-- No em-dashes. Ellipses are fine for suspense ("We could wait for more miles...").
+- No em-dashes. Ellipses are fine for suspense ("We could just wait longer...").
 - Cut every word that is not spoken emphasis. Then cut again.
 
 ## Review checklist for a beat sheet
